@@ -1,3 +1,6 @@
+//Ref: https://developers.google.com/maps/documentation/javascript/examples/directions-draggable
+
+
 import { Component, ViewChild, ElementRef } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
